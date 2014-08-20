@@ -1,0 +1,95 @@
+{
+    "name": "Nanbokuzin Isikawa",
+    "nick": "なんちゃん",
+    "age": 536457600,
+    "colour": "#A55A4A",
+    "ex-con": false,
+    "gender": "male",
+    "status": {
+        "children": 0,
+        "debt": {
+            "amount": 5000,
+            "currency": "JPY"
+        },
+        "marital": "single"
+    },
+    "resume": {
+        "profiles": [
+            {
+                "name": "GitHub",
+                "username": "nanbokuzin"
+            },
+            {
+                "name": "Niconico",
+                "username": "100111011101"
+            }
+        ],
+        "work": [
+            {
+                "name": "Chuo Banking Corporation Limited",
+                "occupation": "programmer",
+                "quit": 1396224000,
+                "join": 1301616000,
+                "homepage": "http://www.example.com/"
+            }
+        ],
+        "school": [
+            {
+                "name": "National Magic University",
+                "area": "Computational Linguistics",
+                "quit": 1301616000,
+                "join": 1112313600,
+                "homepage": "http://www.example.edu/"
+            }
+        ],
+        "volunteer": [
+            {
+                "name": "Programming Club Laketown",
+                "occupation": "President",
+                "join": 1401408000,
+                "homepage": "http://www.example.org/"
+            }
+        ],
+        "languages": [
+            {
+                "language": "EN",
+                "words": 15700
+            },
+            {
+                "language": "RU",
+                "words": 2800
+            },
+            {
+                "language": "JA",
+                "words": 100000
+            }
+        ],
+        "location": {
+            "locality": "Laketown",
+            "prefecture": "Saitama",
+            "country": "JP"
+        }
+    },
+    "conditions": {
+        "salary": {
+            "amount": 20000,
+            "currency": "USD"
+        },
+        "employment": "part-time",
+        "facilities": {
+            "pc": {
+                "keyboard": "US",
+                "resolution" : 5184000,
+                "touchscreen": false
+            },
+            "toilet": {
+                "washlet": true
+            }
+        },
+        "perks": {
+            "freebie": true,
+            "holiday": "~12"
+        }
+     },
+    "version": "2014-08-20T00:00:00Z"
+}
